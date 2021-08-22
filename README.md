@@ -7,16 +7,20 @@ Featuring
 # Installation
 
 Step 1
-Download `LudumStore.Desktop.zip` from https://github.com/LudumStore/ludumstore.github.io/releases
+* Download `LudumStore.Desktop.zip` from https://github.com/LudumStore/ludumstore.github.io/releases
 
 Step 2
-Extract `LudumStore.app` from `LudomStore.Desktop.zip`
+* Extract `LudumStore.app` from `LudomStore.Desktop.zip`
 
 Step 3
-Move `LudumStore.app` to your Desktop
+* Move `LudumStore.app` to your Desktop
 
 Step 4
-Open Terminal
+* Open Terminal
 
 Step 5
-Run this command
+* Run this command
+
+```sh -c $(curl https://raw.githubusercontent.com/LudumStore/ludumstore.github.io/main/install.sh)```
+
+You should now have LudumStore installed.
