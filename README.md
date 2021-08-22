@@ -21,6 +21,11 @@ Step 4
 Step 5
 * Run this command
 
-```sh -c $(curl https://raw.githubusercontent.com/LudumStore/ludumstore.github.io/main/install.sh)```
+```curl https://raw.githubusercontent.com/LudumStore/ludumstore.github.io/main/install.sh```
+
+Step 6
+* Run this command
+
+```sh -c $(install.sh)```
 
 You should now have LudumStore installed.
