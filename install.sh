@@ -1,1 +1,1 @@
-mv ~/Desktop/LudumStore.app ~/Applications
+mv /Desktop/LudumStore.app /Applications
