@@ -1,1 +1,2 @@
-mv /Desktop/LudumStore.app /Applications
+sudo cd /Desktop
+sudo mv LudumStore.app ../Applications
