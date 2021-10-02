@@ -1,36 +1,15 @@
-# LudumStore - Open Source Software Store
+# LudumStore - A Whole New Level of AppStore
+
 Featuring
-* Big ass mess
-* Really crap code
-* Barely any software
+* macOS Apps
+* iOS Apps
+* iOS 6 Apps
 
-# Installation
+# Preservation
+We here at LudumStore believe software should be preserved for and historical purpose.
 
-Step 1
-* Download `LudumStore.Desktop.zip` from https://github.com/LudumStore/ludumstore.github.io/releases
+# How it works - LudumStore 6/LudumStore X
+LudumStore 6 and LudumStore X work by installing an iPA file via a PLIST file, resulting with the app on the home screen. AppSync/AppSync Unified are required to allow the app to be completely installed and opened without signing/verifying it.
 
-Step 2
-* Extract `LudumStore.app` from `LudomStore.Desktop.zip`
-
-Step 3
-* Move `LudumStore.app` to your Desktop
-
-Step 4
-* Open Terminal
-
-Step 5
-* Run this command
-
-```curl -fsSL https://raw.githubusercontent.com/LudumStore/ludumstore.github.io/main/install.sh -o install.sh```
-
-Step 6
-* Run this command
-
-```sh install.sh```
-
-Step 7
-* Run this command
-
-```rm install.sh```
-
-You should now have LudumStore installed.
+# Legal Mumbo Jumbo
+LudumStore Downloads Software from their manufacturers directly, meaning we do not host any software. LudumStore 6 consists of preserved iPA files so old they are considered "abandonware". LudumStore X Downloads preserved iPA files from an entirely different webserver that is not affiliated with LudumStore in any way. All software downloadable on LudumStore belongs to it's original software manufacturer. LudumStore is not affiliated with iOS, macOS or Apple in any way. LudumStore 6 is not affiliated with iOS, macOS or Apple in any way. LudumStore X is not affiliated with iOS, macOS or Apple in any way.
