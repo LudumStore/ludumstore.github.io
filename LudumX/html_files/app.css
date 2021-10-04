@@ -1,1 +1,225 @@
-.ios .tabbar-labels .tab-link:not(.tab-link-active) .icon-ios-fill{display:none}.ios .tabbar-labels .tab-link.tab-link-active .icon:not(.icon-ios-fill){display:none}.ios .tabbar .tab-link:not(.tab-link-active) .icon-ios-fill{display:none}.ios .tabbar .tab-link.tab-link-active .icon:not(.icon-ios-fill){display:none}.colortheme-theme-picker{cursor:pointer;padding:30px;border-radius:10px;box-shadow:0 5px 20px rgba(0,0,0,.1);border:1px solid rgba(255,255,255,.2);box-sizing:border-box;position:relative}.colortheme-theme-picker .checkbox{position:absolute;left:10px;bottom:10px}.colortheme-color-picker-button{margin-bottom:1em;text-transform:capitalize}.colortheme-bars-picker{height:200px;border-radius:10px;box-shadow:0 5px 20px rgba(0,0,0,.1);cursor:pointer;position:relative;overflow:hidden;background:var(--f7-page-bg-color);border:1px solid rgba(255,255,255,.2)}.colortheme-bars-picker .checkbox{position:absolute;left:10px;bottom:10px}.colortheme-bars-picker .colortheme-navbar{position:absolute;left:0;width:100%;height:30px;top:0;border-bottom:1px solid transparent}.colortheme-bars-picker .colortheme-navbar:before{content:'';position:absolute;left:10px;width:20px;height:10px;top:50%;margin-top:-5px}.colortheme-bars-picker .colortheme-navbar:after{content:'';position:absolute;right:10px;width:20px;height:10px;top:50%;margin-top:-5px}.colortheme-bars-picker-empty .colortheme-navbar{background:#f7f7f8;border-color:rgba(0,0,0,.1)}.theme-dark .colortheme-bars-picker-empty .colortheme-navbar{background:#1b1b1b;border-color:#282829}.colortheme-bars-picker-empty .colortheme-navbar:before,.colortheme-bars-picker-empty .colortheme-navbar:after{background:var(--f7-theme-color)}.colortheme-bars-picker-fill .colortheme-navbar{background:var(--f7-theme-color)}.colortheme-bars-picker-fill .colortheme-navbar:before,.colortheme-bars-picker-fill .colortheme-navbar:after{background:#fff}:root{--f7-skeleton-color: #ccc}.theme-dark{--f7-skeleton-color: #515151}:root{--f7-dialog-button-text-color: var(--f7-theme-color);--f7-dialog-button-text-align: center;--f7-dialog-input-bg-color: #fff}.ios{--f7-dialog-bg-color: rgba(255, 255, 255, 0.95);--f7-dialog-box-shadow: none;--f7-dialog-width: 270px;--f7-dialog-inner-padding: 15px;--f7-dialog-border-radius: 13px;--f7-dialog-text-color: #000;--f7-dialog-text-align: center;--f7-dialog-font-size: 14px;--f7-dialog-title-text-color: inherit;--f7-dialog-title-font-size: 18px;--f7-dialog-title-font-weight: 600;--f7-dialog-title-line-height: inherit;--f7-dialog-button-font-size: 17px;--f7-dialog-button-height: 44px;--f7-dialog-button-letter-spacing: 0;--f7-dialog-button-font-weight: 400;--f7-dialog-button-text-transform: none;--f7-dialog-button-pressed-bg-color: rgba(230, 230, 230, 0.95);--f7-dialog-input-border-radius: 4px;--f7-dialog-input-font-size: 14px;--f7-dialog-input-height: 32px;--f7-dialog-input-border-color: rgba(0, 0, 0, 0.3);--f7-dialog-input-border-width: 1px;--f7-dialog-input-placeholder-color: #a9a9a9;--f7-dialog-preloader-size: 34px}.md{--f7-dialog-bg-color: #fff;--f7-dialog-box-shadow: var(--f7-elevation-24);--f7-dialog-width: 280px;--f7-dialog-inner-padding: 24px;--f7-dialog-border-radius: 4px;--f7-dialog-text-color: #757575;--f7-dialog-text-align: left;--f7-dialog-font-size: 16px;--f7-dialog-title-text-color: #212121;--f7-dialog-title-font-size: 20px;--f7-dialog-title-font-weight: 500;--f7-dialog-title-line-height: 1.3;--f7-dialog-button-font-size: 14px;--f7-dialog-button-height: 36px;--f7-dialog-button-letter-spacing: 0.03em;--f7-dialog-button-font-weight: 500;--f7-dialog-button-text-transform: uppercase;--f7-dialog-button-pressed-bg-color: rgba(0, 0, 0, 0.1);--f7-dialog-input-border-radius: 0px;--f7-dialog-input-font-size: 16px;--f7-dialog-input-height: 36px;--f7-dialog-input-border-color: transparent;--f7-dialog-input-border-width: 0px;--f7-dialog-input-placeholder-color: rgba(0, 0, 0, 0.35);--f7-dialog-preloader-size: 32px}.aurora{--f7-dialog-bg-color: #fff;--f7-dialog-box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.15), 0 25px 30px 0 rgba(0,0,0,0.35);--f7-dialog-width: 300px;--f7-dialog-inner-padding: 20px;--f7-dialog-border-radius: 4px;--f7-dialog-text-color: #000;--f7-dialog-text-align: left;--f7-dialog-font-size: 14px;--f7-dialog-title-text-color: inherit;--f7-dialog-title-font-size: 14px;--f7-dialog-title-font-weight: 700;--f7-dialog-title-line-height: inherit;--f7-dialog-button-text-color: #fff;--f7-dialog-button-font-size: 13px;--f7-dialog-button-height: 28px;--f7-dialog-button-letter-spacing: 0;--f7-dialog-button-font-weight: 500;--f7-dialog-button-text-transform: none;--f7-dialog-input-border-radius: 4px;--f7-dialog-input-font-size: 13px;--f7-dialog-input-height: 24px;--f7-dialog-input-border-color: rgba(0, 0, 0, 0.12);--f7-dialog-input-border-width: 1px;--f7-dialog-input-placeholder-color: rgba(0, 0, 0, 0.32);--f7-dialog-preloader-size: 24px}.item-media .app-icon{display:block;margin-left:auto;margin-right:auto}.blink{animation:blinker 1s linear infinite}@keyframes blinker{50%{opacity:0}}sup{vertical-align:super;font-size:15px}
+.ios .tabbar-labels .tab-link:not(.tab-link-active) .icon-ios-fill {
+    display: none
+}
+
+.ios .tabbar-labels .tab-link.tab-link-active .icon:not(.icon-ios-fill) {
+    display: none
+}
+
+.ios .tabbar .tab-link:not(.tab-link-active) .icon-ios-fill {
+    display: none
+}
+
+.ios .tabbar .tab-link.tab-link-active .icon:not(.icon-ios-fill) {
+    display: none
+}
+
+.colortheme-theme-picker {
+    cursor: pointer;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, .1);
+    border: 1px solid rgba(255, 255, 255, .2);
+    box-sizing: border-box;
+    position: relative
+}
+
+.colortheme-theme-picker .checkbox {
+    position: absolute;
+    left: 10px;
+    bottom: 10px
+}
+
+.colortheme-color-picker-button {
+    margin-bottom: 1em;
+    text-transform: capitalize
+}
+
+.colortheme-bars-picker {
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    background: var(--f7-page-bg-color);
+    border: 1px solid rgba(255, 255, 255, .2)
+}
+
+.colortheme-bars-picker .checkbox {
+    position: absolute;
+    left: 10px;
+    bottom: 10px
+}
+
+.colortheme-bars-picker .colortheme-navbar {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    top: 0;
+    border-bottom: 1px solid transparent
+}
+
+.colortheme-bars-picker .colortheme-navbar:before {
+    content: '';
+    position: absolute;
+    left: 10px;
+    width: 20px;
+    height: 10px;
+    top: 50%;
+    margin-top: -5px
+}
+
+.colortheme-bars-picker .colortheme-navbar:after {
+    content: '';
+    position: absolute;
+    right: 10px;
+    width: 20px;
+    height: 10px;
+    top: 50%;
+    margin-top: -5px
+}
+
+.colortheme-bars-picker-empty .colortheme-navbar {
+    background: #f7f7f8;
+    border-color: rgba(0, 0, 0, .1)
+}
+
+.theme-dark .colortheme-bars-picker-empty .colortheme-navbar {
+    background: #1b1b1b;
+    border-color: #282829
+}
+
+.colortheme-bars-picker-empty .colortheme-navbar:before,
+.colortheme-bars-picker-empty .colortheme-navbar:after {
+    background: var(--f7-theme-color)
+}
+
+.colortheme-bars-picker-fill .colortheme-navbar {
+    background: var(--f7-theme-color)
+}
+
+.colortheme-bars-picker-fill .colortheme-navbar:before,
+.colortheme-bars-picker-fill .colortheme-navbar:after {
+    background: #fff
+}
+
+:root {
+    --f7-skeleton-color: #ccc
+}
+
+.theme-dark {
+    --f7-skeleton-color: #515151
+}
+
+:root {
+    --f7-dialog-button-text-color: var(--f7-theme-color);
+    --f7-dialog-button-text-align: center;
+    --f7-dialog-input-bg-color: #fff
+}
+
+.ios {
+    --f7-dialog-bg-color: rgba(255, 255, 255, 0.95);
+    --f7-dialog-box-shadow: none;
+    --f7-dialog-width: 270px;
+    --f7-dialog-inner-padding: 15px;
+    --f7-dialog-border-radius: 13px;
+    --f7-dialog-text-color: #000;
+    --f7-dialog-text-align: center;
+    --f7-dialog-font-size: 14px;
+    --f7-dialog-title-text-color: inherit;
+    --f7-dialog-title-font-size: 18px;
+    --f7-dialog-title-font-weight: 600;
+    --f7-dialog-title-line-height: inherit;
+    --f7-dialog-button-font-size: 17px;
+    --f7-dialog-button-height: 44px;
+    --f7-dialog-button-letter-spacing: 0;
+    --f7-dialog-button-font-weight: 400;
+    --f7-dialog-button-text-transform: none;
+    --f7-dialog-button-pressed-bg-color: rgba(230, 230, 230, 0.95);
+    --f7-dialog-input-border-radius: 4px;
+    --f7-dialog-input-font-size: 14px;
+    --f7-dialog-input-height: 32px;
+    --f7-dialog-input-border-color: rgba(0, 0, 0, 0.3);
+    --f7-dialog-input-border-width: 1px;
+    --f7-dialog-input-placeholder-color: #a9a9a9;
+    --f7-dialog-preloader-size: 34px
+}
+
+.md {
+    --f7-dialog-bg-color: #fff;
+    --f7-dialog-box-shadow: var(--f7-elevation-24);
+    --f7-dialog-width: 280px;
+    --f7-dialog-inner-padding: 24px;
+    --f7-dialog-border-radius: 4px;
+    --f7-dialog-text-color: #757575;
+    --f7-dialog-text-align: left;
+    --f7-dialog-font-size: 16px;
+    --f7-dialog-title-text-color: #212121;
+    --f7-dialog-title-font-size: 20px;
+    --f7-dialog-title-font-weight: 500;
+    --f7-dialog-title-line-height: 1.3;
+    --f7-dialog-button-font-size: 14px;
+    --f7-dialog-button-height: 36px;
+    --f7-dialog-button-letter-spacing: 0.03em;
+    --f7-dialog-button-font-weight: 500;
+    --f7-dialog-button-text-transform: uppercase;
+    --f7-dialog-button-pressed-bg-color: rgba(0, 0, 0, 0.1);
+    --f7-dialog-input-border-radius: 0px;
+    --f7-dialog-input-font-size: 16px;
+    --f7-dialog-input-height: 36px;
+    --f7-dialog-input-border-color: transparent;
+    --f7-dialog-input-border-width: 0px;
+    --f7-dialog-input-placeholder-color: rgba(0, 0, 0, 0.35);
+    --f7-dialog-preloader-size: 32px
+}
+
+.aurora {
+    --f7-dialog-bg-color: #fff;
+    --f7-dialog-box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.15), 0 25px 30px 0 rgba(0, 0, 0, 0.35);
+    --f7-dialog-width: 300px;
+    --f7-dialog-inner-padding: 20px;
+    --f7-dialog-border-radius: 4px;
+    --f7-dialog-text-color: #000;
+    --f7-dialog-text-align: left;
+    --f7-dialog-font-size: 14px;
+    --f7-dialog-title-text-color: inherit;
+    --f7-dialog-title-font-size: 14px;
+    --f7-dialog-title-font-weight: 700;
+    --f7-dialog-title-line-height: inherit;
+    --f7-dialog-button-text-color: #fff;
+    --f7-dialog-button-font-size: 13px;
+    --f7-dialog-button-height: 28px;
+    --f7-dialog-button-letter-spacing: 0;
+    --f7-dialog-button-font-weight: 500;
+    --f7-dialog-button-text-transform: none;
+    --f7-dialog-input-border-radius: 4px;
+    --f7-dialog-input-font-size: 13px;
+    --f7-dialog-input-height: 24px;
+    --f7-dialog-input-border-color: rgba(0, 0, 0, 0.12);
+    --f7-dialog-input-border-width: 1px;
+    --f7-dialog-input-placeholder-color: rgba(0, 0, 0, 0.32);
+    --f7-dialog-preloader-size: 24px
+}
+
+.item-media .app-icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.blink {
+    animation: blinker 1s linear infinite
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0
+    }
+}
+
+sup {
+    vertical-align: super;
+    font-size: 15px
+}

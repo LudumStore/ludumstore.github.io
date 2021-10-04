@@ -27,7 +27,56 @@
             }
 
       </style>
-      <style id="stylesheetCustom"></style>
+      <style id="stylesheetCustom">
+            @media (prefers-color-scheme: dark) {
+                  :root {
+                        --f7-list-bg-color: #1b1b1b;
+
+                  }
+
+                  .list {
+                        color: #ffffff;
+                  }
+
+                  .title-large-text {
+                        color: #ffffff;
+                  }
+
+                  .title-large {
+                        --f7-navbar-bg-color: #1b1b1b !important;
+                        --f7-theme-color: #1b1b1b !important;
+                        --f7-bars-bg-color: #1b1b1b !important;
+                        background-image: none;
+                  }
+
+                  .title-large:after {
+                        background-color: #242424 !important;
+                  }
+
+                  .list ul:before,
+                  .list ul:after,
+                  .block-strong:before,
+                  .block-strong:after,
+                  .list .item-inner:after {
+                        background-color: #242424;
+                  }
+
+                  .block-title {
+                        background-color: #000000;
+                  }
+
+                  .page-content {
+                        background-color: #000000;
+                  }
+
+                  .block-strong {
+                        background-color: #1b1b1b;
+                        color: #ffffff;
+                        border-color: #242424;
+                  }
+            }
+
+      </style>
 </head>
 
 <body>
@@ -37,7 +86,7 @@
 
             <div class="view view-main safe-areas">
                   <div class="navbar">
-                        <div class="navbar-inner sliding navbar-inner-large navbar-current" style="">
+                        <div class="navbar-inner sliding navbar-inner-large navbar-current">
                               <div class="title" style="left: 608.5px;">Home</div>
                               <div class="title-large">
                                     <div class="title-large-text">LudumStore X<sup> <a
